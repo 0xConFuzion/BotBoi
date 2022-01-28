@@ -629,4 +629,4 @@ async def on_message(message: discord.Message):
             log('?id ', str(message.author.id))
             print('?id REQUEST')
 
-bot.run('')
+bot.run('Njc5NTE5MjU1NDA2MDUxMzQy.Xkyhnw.fxMY46xCc_2piX0BEFI4H0tAjpA')
