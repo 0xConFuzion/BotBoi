@@ -47,8 +47,8 @@ def log(input, user):
 def mysql_connector(sql, values):
     db = mysql.connector.connect(
         host='localhost',
-        user='botboi',
-        password='Duckquack123!!',
+        user='',
+        password='',
         database='image',
         ssl_disabled=True,
         connect_timeout=5
